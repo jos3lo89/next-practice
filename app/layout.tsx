@@ -31,7 +31,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
             textAlign: "center",
           }}
         >
-          <p>footer</p>
+          <p>wwadafaf</p>
         </footer>
       </body>
     </html>
