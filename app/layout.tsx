@@ -21,7 +21,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
             textAlign: "center",
           }}
         >
-          <p>header</p>
+          <p>cambiand espero que teng aci/cd 🖕</p>
         </header>
         {children}
         <footer
