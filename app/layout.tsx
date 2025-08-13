@@ -13,31 +13,7 @@ type RootLayoutProps = {
 export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="es-PE">
-      <body className="antialiased">
-        <header
-          style={{
-            backgroundColor: "Highlight",
-            padding: "1rem",
-            textAlign: "center",
-          }}
-        >
-          <p>
-            🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕
-          </p>
-        </header>
-        {children}
-        <footer
-          style={{
-            backgroundColor: "cyan",
-            padding: "1rem",
-            textAlign: "center",
-          }}
-        >
-          <p>
-            🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕
-          </p>
-        </footer>
-      </body>
+      <body className="antialiased">{children}</body>
     </html>
   );
 }
