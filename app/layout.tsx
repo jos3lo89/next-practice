@@ -21,7 +21,9 @@ export default function RootLayout({ children }: RootLayoutProps) {
             textAlign: "center",
           }}
         >
-          <p>cambiand espero que teng aci/cd 🖕</p>
+          <p>
+            🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕
+          </p>
         </header>
         {children}
         <footer
@@ -31,7 +33,9 @@ export default function RootLayout({ children }: RootLayoutProps) {
             textAlign: "center",
           }}
         >
-          <p>wwadafaf</p>
+          <p>
+            🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕
+          </p>
         </footer>
       </body>
     </html>
